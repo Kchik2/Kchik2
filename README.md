@@ -27,3 +27,9 @@ I am Manuel Garcia (He/Him). A Software Developer eager to learn about how IT an
 [![My Skills](https://skillicons.dev/icons?i=js,express,vue,pinia,java,spring,sqlite,mysql,py,django,godot,git,github)](https://skillicons.dev)
 
 ### Contact Info 📫
+
+If you are interest to speak with me I have the following options ✉️:
+- Email me to [maalgamo2000@gmail.com](mailto:maalgamo2000@gmail.com) (best way!)
+- Send me a message to my LinkedIn profile! [Manuel Garcia.](https://www.linkedin.com/in/manuel-garcia-b91037220/)
+
+
