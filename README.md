@@ -25,7 +25,7 @@ I am Manuel Garcia (He/Him), a Software Developer/Musician eager to learn about 
 
 [![My Skills](https://skillicons.dev/icons?i=vue,pinia,godot,git,github)](https://skillicons.dev)
 
-### Fun facts beyond the code🎵:
+### Fun facts beyond the code 🎵
 - I believe music has a power that no computer or AI can archieve, and it is the power to bring abstract emotions to the physical world! (Yes, I love music 🎤)
 - I have Synesthesia 🌈 (Don't worry, I'm not sick!).
 
