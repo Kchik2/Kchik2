@@ -1,5 +1,5 @@
-## Hi and welcome to my github account! 👋
-
+## Hi I'm Manuel and welcome to my github account! 👋
+### Software Developer | Musician | AI & Healthcare Enthusiast
 <!--
 **Kchik2/Kchik2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,21 +19,31 @@ I am Manuel Garcia (He/Him), a Software Developer/Musician eager to learn about 
 
 ### Some facts about Myself 😎
 
-- I am currently learning about game development and AI with tools like godot, scikit-learn, C#, and PyTorch. 
-- Trying to find ideas on how to improve preventative care and diagnosis for humanity! If you have any ideas please contact me!
-- If you want to talk to me or have any request, please reach out! I am like Colombians say "Mas saludable que una lechuga."
+- 🌱 I am currently learning about game development and AI with tools like godot, scikit-learn, C#, and PyTorch. 
+- 🚀 Trying to find ideas on how to improve preventative care and diagnosis for humanity! If you have any ideas please contact me!
+- 👯 If you want to talk to me or have any request, please reach out! I am like Colombians say "Mas saludable que una lechuga."
 
-### Tools that I have experience with 🤔✨!
-[![My Skills](https://skillicons.dev/icons?i=js,express,vue,pinia,java,spring,sqlite,mysql,py,django,godot,git,github)](https://skillicons.dev)
+### 📂 Featured Projects
+* **[llm_recipe_generator]** - Implementation of GeminiAI API into Express.js to give a cooking recipe based on ingredients typed by the user.
+* **[SpringDB]** - Implementation of SpringBoot and Hibernate to create a Web Ticket Management System! And with databases!
 
-### Contact Info 📫
+### 💻 Technical Toolbox
+**Languages & Backend**
 
-If you are interest to speak with me I have the following options ✉️:
-- Email me to [maalgamo2000@gmail.com](mailto:maalgamo2000@gmail.com) (best way!)
-- Send me a message to my LinkedIn profile! [Manuel Garcia.](https://www.linkedin.com/in/manuel-garcia-b91037220/)
 
-### Fun facts🎵:
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,spring,django,express,sqlite,mysql)](https://skillicons.dev)
+
+**Frontend & Game Dev**
+
+
+[![My Skills](https://skillicons.dev/icons?i=vue,pinia,godot,git,github)](https://skillicons.dev)
+
+### Fun facts beyond the code🎵:
 - I believe music has a power that no computer or AI can archieve, and it is the power to bring abstract emotions to the physical world! (Yes, I love music 🎤)
 - I have Synesthesia 🌈 (Don't worry, I'm not sick!).
+
+### 📫 Let's Connect
+- **Email:** [maalgamo2000@gmail.com](mailto:maalgamo2000@gmail.com) 📧
+- **LinkedIn:** [Manuel Garcia](https://www.linkedin.com/in/manuel-garcia-b91037220/) 💼
 
 
