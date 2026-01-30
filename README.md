@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me 😄 
-I am Manuel Garcia (He/Him). A Software Developer eager to learn about how IT and programming can help humanity! My goal is that by learning 🔭 how to implement AI/ML in the Healthcare field, I want to give people a better, affordable, and top notch preventative care service ✚! Currently working in a ML specialization at Coursera, ideas for automation over preventative care, and a RPG game!
+I am Manuel Garcia (He/Him), a Software Developer/Musician eager to learn about how IT and programming can help humanity! My goal is that by learning 🔭 how to implement AI/ML in the Healthcare field, I want to give people a better, affordable, and top notch preventative care service ✚! Currently working in a ML specialization at Coursera, ideas for automation over preventative care, and a RPG game!
 
 ### Some facts about Myself 😎
 
@@ -31,5 +31,9 @@ I am Manuel Garcia (He/Him). A Software Developer eager to learn about how IT an
 If you are interest to speak with me I have the following options ✉️:
 - Email me to [maalgamo2000@gmail.com](mailto:maalgamo2000@gmail.com) (best way!)
 - Send me a message to my LinkedIn profile! [Manuel Garcia.](https://www.linkedin.com/in/manuel-garcia-b91037220/)
+
+### Fun facts🎵:
+- I believe music has a power that no computer or AI can archieve, and it is the power to bring abstract emotions to the physical world! (Yes, I love music 🎤)
+- I have Synesthesia 🌈 (Don't worry, I'm not sick!).
 
 
